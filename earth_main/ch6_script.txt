@@ -1,0 +1,253 @@
+[[Prologue]]
+Alien: I am the king of wisdom, the emperor of this galaxy. Stupid human, your spaceship is already under my control. 
+Now I am gonna to ask you a few easy questions. You will definitely be killed if you give me wrong answers.
+HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA...
+Now your chanllenge begins...
+
+
+
+
+[[Easy Mode]]
+
+[Question]
+"I am a sound that echoes through the ages.
+I can bring tears, I can bring joy, I can turn the pages.
+I am made of notes, of rhythms, of melodies.
+I am a language, an art, and a history.
+What am I?"
+
+[Answer]
+MUSIC
+
+[Question]
+"I am always in front of you, yet you cannot see me.
+I am a guide, a direction, a path you must be.
+I am a symbol, a marker, a sign of what's ahead.
+I am a challenge, a mystery, and a question left unsaid.
+What am I?"
+
+[Answer]
+FUTURE
+
+[Question]
+"I cannot be seen or touched, yet I am always with you.
+I never stop, but I'm never in a rush too.
+I'm more precious than gold, but can't be bought or sold.
+I'm a moment, a memory, a measure, and an old tale told.
+I am always ticking, but I'm never really loud.
+What am I?"
+
+[Answer]
+TIME
+
+[Question]
+"I don't last long, and I'm measured by time,
+Thin I'm quick, fat I'm slow, but both can shine.
+Wind is not my friend, it puts me out with ease,
+But with care and attention, my light will never cease.
+What am I?"
+
+[Answer]
+CANDLE
+
+[Question]
+"I am the voice that speaks without a mouth,
+A sound that travels north, south, east, and south.
+I am not seen, but heard across the land,
+A ghostly repetition, a sound that's grand.
+What am I?"
+
+[ANSWER]
+ECHO
+
+[Question]
+"What starts with an E, ends with an E, but only contains one letter?"
+
+[Answer]
+ENVELOPE
+
+[Question]
+What begins with T, ends with T, and has T in it?
+
+[Answer]
+TEAPOT
+
+[Question]
+"I am a word that becomes shorter when you add two letters to it. What word am I?"
+
+[Answer]
+SHORT
+
+[Question]
+"When you take away the whole from me, I still have some left. What am I?"
+
+[Answer]
+WHOLESOME
+
+[Question]
+"I am an odd number; take away a letter and I become even. What number am I?"
+
+[Answer]
+SEVEN
+
+
+[[Difficult Mode]]
+
+[Question]
+"What is so fragile that saying its name breaks it?"
+
+[Answer]
+SILENCE
+
+[Question]
+What has four legs in the morning, two legs in the afternoon, and three legs in the evening?
+
+[Answer]
+HUMAN
+
+[Question]
+What has a tail and a head but no body?
+
+[Answer]
+COIN
+
+[Question]
+What has a mouth but cannot eat, a bed but never sleeps?
+
+[Answer]
+RIVER
+
+[Question]
+What is so light that even the strongest man cannot hold it for more than a few minutes?
+
+[Answer]
+BREATH
+
+[Question]
+What is the meaning of the following sentence: "RENQVPGGRNYYRIVYVAGURJBEYQ"?
+
+A. "Save the motherland from perishing"
+B. "Eradicate all evil in the world"
+C. "For the greater good"
+D. "Conquer the whole world"
+E. "Become the partner of justice"
+
+[Question]
+You need to find a seven-digit password (only consists of uppercase characters) to unlock a door.
+The only information is hidden in a series of symbols:
+-. .. --. .... - / --. --- --- -.. / - .... .- - / .. -. - --- / --. . -. - .-.. . / --. --- / -. --- - / -.. ---
+What would be the correct password to the lock?
+
+[Hint]
+omited
+
+[Answer]
+DICKENS
+
+[Question]
+You are in a room with three switches, each of which controls a different light bulb in another room. You are unable
+to see the other room or the light bulbs. How can you determine which switch controls each bulb by only making one
+trip to the other room? Which of the following options describes the solution to the problem of identifying which
+switch controls each light bulb in another room without seeing the bulbs or switches?
+
+A. Turn on the first switch for a few minutes and then switch it off, then turn on the second switch and go to the
+other room. The bulb that is lit up belongs to the second switch and the one that is warm to touch but off belongs to
+the first switch, while the bulb that is off and cold belongs to the third switch.
+
+B. Flip the first switch on for a few seconds, then switch it off and immediately flip the second switch on. Go to the
+other room and observe which light bulb is on. The bulb that is on and hot belongs to the second switch, while the
+bulbs that are off and cold belong to the first and third switches.
+
+C. Flip the first switch on for a few minutes, then switch it off and immediately flip the third switch on. Go to the
+other room and observe which light bulb is on. The bulb that is on and hot belongs to the third switch, while the
+bulbs that are off and cold belong to the first and second switches.
+
+D. Turn on all three switches simultaneously and go to the other room. The bulb that is on and hot belongs to the
+first switch, the one that is off and cold belongs to the second switch, while the bulb that is off and warm belongs
+to the third switch.
+
+[Answer]
+B
+
+[Question]
+Infront of you there are three boxes, one filled with gold, one with silver, and one with lead. Each box is labeled
+with a statement, but only one statement is true. The labels for box 1,2,3 (in order) are as follows: "The gold is not
+in this box," "The silver is not in this box," and "The lead is in this box." Which box contains the gold?
+
+A. Box 1
+B. Box 2
+C. Box 3
+
+[Answer]
+B
+
+[Question]
+You come across two paths, one leading to heaven and the other to hell. Two guards are standing in front of the paths.
+One of the guards always tells the truth and the other always lies. You are only allowed to ask one guard one question
+to determine which path leads to heaven. The catch is that you don't know which guard always tells the truth and which
+one always lies. What question should you ask to determine which path leads to heaven?
+
+A. "Is the heaven behind the door you are guarding?"
+B. "Can you tell me if the other guard is lying?"
+C. "Which door would the other guard say leads to the heaven?"
+D. "If I were to choose the other door, would it lead to the heaven?"
+E. "What would you say if I asked you which door leads to the hell?"
+
+[Answer]
+C
+
+[Question]
+A farmer needs to transport a fox, a chicken, and a bag of corn across a river. He has a boat that can only carry
+himself and one of the items at a time. However, if he leaves the fox alone with the chicken, the fox will eat the
+chicken. Likewise, if he leaves the chicken alone with the corn, the chicken will eat the corn. How can the farmer
+transport all three items across the river without any of them being eaten?
+
+A. Take the fox first, then the chicken, then the corn
+B. Take the chicken first, then the fox, then the corn
+C. Take the corn first, then the chicken, then the fox
+D. It is impossible to transport all three items safely
+
+[Answer]
+B
+
+[Question]
+You are given a balance scale and eight identical-looking balls. One of the balls is slightly heavier than the others.
+What is the minimum number of times you need to use the scale to determine which ball is the heaviest?
+
+A. 2
+B. 3
+C. 4
+D. 5
+E. 6
+
+[Answer]
+A
+
+
+[Start-Easy]
+Alien: Prepare to be tested by me, cowardly human.
+
+[Start-Hard]
+Alien: Wow. What an arrogant human! In that case, just wait for your death. HAHAHAHAHAHAHA...
+
+[Hint]
+Alien: This question is a difficult one. I believe only people with wisdom can solve it. Do you want hint for this
+question?'
+
+Pls input Y/N for yes/no respectively
+
+[Pass]
+Alien: You have guessed wrongly for three times. As I expected, humans are really stupid creatures. If you admit that,
+I may just let you pass this puzzle. HAHAHAHAHAHAHAHA...
+
+Pls input Y/N for yes/no respectively.
+
+[Final]
+Alien: I admit that humans are not all stupid. You passed my test, now you can go.
+
+[Prompt-MC]
+Pls input the option in uppercase, e.g., 'A', after thinking carefully.
+
+[Promp-NonMC]
+Pls input your answer in uppercase, e.g., "APPLE", after thinking carefully.
+
